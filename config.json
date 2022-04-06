@@ -1,0 +1,10 @@
+{
+    "port" : "81",
+    "tokenREQUIRED" : true,
+    "tokenGenerationALLOWED" : true,
+    "RegisterPORT" : "81",
+    "bannedIPS" : [ 
+        "IP1",
+        "IP2"
+    ]
+}
